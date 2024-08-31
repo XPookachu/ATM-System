@@ -18,7 +18,7 @@ Database: MySQL
 
 Installation
 Clone the repository:
-git clone https://github.com/yourusername/bank-management-system.git
+git clone https://github.com/XPookachu/ATM-System
 Import the project into your preferred IDE.
 Set up the MySQL database using the provided SQL scripts in the requirements folder.
 Run the application.
