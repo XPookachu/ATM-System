@@ -20,7 +20,7 @@ Installation
 Clone the repository:
 git clone https://github.com/yourusername/bank-management-system.git
 Import the project into your preferred IDE.
-Set up the MySQL database using the provided SQL scripts.
+Set up the MySQL database using the provided SQL scripts in the requirements folder.
 Run the application.
 
 License
